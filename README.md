@@ -11,13 +11,9 @@
 
 - 🌱 I’m currently learning **React JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-jaipal.vercel.app/](https://my-portfolio-jaipal.vercel.app/)
-
 - 💬 Ask me about **React ,JavaScript,Git**
 
 - 📫 How to reach me **jaipalsinghsisodiya46@gmail.com**
-
-- ⚡ Fun fact **I think I am not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
