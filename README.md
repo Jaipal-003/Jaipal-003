@@ -36,10 +36,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaipal-003&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+<div align="center">
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Jaipal-003&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
