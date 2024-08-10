@@ -3,6 +3,7 @@
 
 
 
+
 <h1 align="center">Hi 👋, I'm Jaipal Singh Sisodiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -42,6 +43,8 @@
 ![](https://github-trophies.vercel.app/?username=Jaipal-003&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaipal-003&bg_color=0c011e&color=4d4c4d&line=ffffff&point=bbb4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
