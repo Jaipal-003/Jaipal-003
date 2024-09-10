@@ -42,7 +42,7 @@
 </div>
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-trophies.vercel.app/?username=Jaipal-003&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
